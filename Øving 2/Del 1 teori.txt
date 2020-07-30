@@ -1,0 +1,7 @@
+Hva er en synlighetsmodifikator?
+En synlighetsmodifikator avgjør hva som kan lese ulike felt/metoder i koden.
+
+Hva er forskjellen på private og public og når brukes de?
+Private gjør koden usynlig for alt unntatt den klassen det er deklarert i, mens public gjør koden synlig for alt annet. 
+Private brukes når man ønsker å holde noe for seg selv og ikke overskrive det av andre klasser. 
+Mens public gir mulighet til å bruke og endre koden uansett hvor man er i kodebasen.
